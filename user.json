@@ -1,0 +1,11 @@
+{
+    "users":[
+    {
+        "iduser":"0",
+        "name":"Marco",
+        "lastname": "Pescetelli",
+        "birthday": "30/12/1992",
+        "genre": "male"
+    }
+]
+}
