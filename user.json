@@ -1,4 +1,4 @@
-{    "users":
+{    "users":[
     {        "iduser":"0",
              "name":"Marco",
              "lastname":"Pescetelli",
@@ -6,4 +6,5 @@
              "genre":"male",
              "nationality":"Italy"
     }
+    ]
 }
