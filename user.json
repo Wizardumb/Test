@@ -1,9 +1,9 @@
 {    "users":[
     {        "iduser":"0",
-             "name":"Marco",
-             "lastname":"Pescetelli",
-             "birthday":"30/12/1992",
-             "genre":"male",
+             "name":"Mario",
+             "lastname":"Rossi",
+             "birthday":"01/01/1990",
+             "genre":"Male",
              "nationality":"Italy"
     }
     ]
